@@ -14,6 +14,7 @@ body {
 	font-family:"Open Sans";
     padding:20px;
     background: #667787;
+    color: #E1E1D5;
 }
 
 #qunit-testrunner-toolbar, #qunit-userAgent, #qunit-testresult, #qunit-tests li { font-size: 1em; }
@@ -92,8 +93,7 @@ h2#qunit-banner.qunit-fail:after {
     content:'One or more tests failed :(';
 }
 
-/** Test Runner Result Styles */
-
+/** Result Styles */
 #qunit-testrunner-toolbar {
     line-height: 20px;
     background: #E1E1D5;
