@@ -1,19 +1,15 @@
 {
-  "name": "qunit-theme-gabe",
-  "title": "QUnit Gabe Theme",
-  "description": "A QUnit theme by Gabe Hendry.",
-  "version": "1.0.2-pre",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/Krinkle/qunit-theme-gabe/blob/master/AUTHORS.txt"
-  },
-  "homepage": "https://github.com/Krinkle/qunit-theme-gabe",
+  "name": "qunit-theme-burce",
+  "title": "QUnit burce Theme",
+  "description": "A QUnit theme by Bryce Dorn.",
+  "version": "1.0",
+  "author": "Bryce Dorn <brycedorn@gmail.com> (http://bryce.io)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Krinkle/qunit-theme-gabe.git"
+    "url": "git://github.com/brycedorn/qunit-theme-gabe.git"
   },
   "bugs": {
-    "url": "https://github.com/Krinkle/qunit-theme-gabe/issues"
+    "url": "https://github.com/brycedorn/qunit-theme-burce/issues"
   },
   "license": {
     "name": "MIT",
@@ -21,6 +17,7 @@
   },
   "keywords": [
     "qunit",
+    "burce",
     "qunit-plugin",
     "qunit-theme"
   ],
