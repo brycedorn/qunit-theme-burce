@@ -10,4 +10,4 @@
 
 See [`minitranslate.herokuapp.com/test`](http://minitranslate.herokuapp.com/test) for a demo.
 
-![Screenshot of v1.0](http://i.imgur.com/Ousv8kd.png)
+![Screenshot of v1.0](http://i.imgur.com/MPZuB8z.png)
