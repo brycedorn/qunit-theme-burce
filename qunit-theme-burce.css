@@ -345,3 +345,12 @@ p#qunit-testresult span.failed {
 #qunit-fixture {
 	display: none;
 }
+
+#qunit-testrunner-toolbar input[type="checkbox"] ~ label {
+	vertical-align: top;
+}
+
+#qunit-testrunner-toolbar > span:first-of-type label {
+	width: 140px;
+	margin-right: auto;
+}
