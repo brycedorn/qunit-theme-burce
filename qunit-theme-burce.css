@@ -302,7 +302,6 @@ b.counts b.failed {
 }
 
 #qunit-tests li li.fail {
-	color: #E1E1D5;
 	background-color: #E1E1D5;
 	border-left: 20px solid #C75233;
 	white-space: pre;
